@@ -38,13 +38,12 @@
     "prebuild": "npm run lint-staged"
   },
   "engines": {
-    "node": "^20.x.x",
+    "node": "^18.x.x",
     "npm": "^10.x.x"
   },
   "dependencies": {
     "@tanstack/react-router": "^1.0.0",
-    "react": "^18.x",
-    "react-dom": "^18.x"
+    "react": "^18.x"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.x",
